@@ -22,4 +22,4 @@ The columns following the happiness score estimate the extent to which each of *
 You can find more info about the datasets and how to download them by clicking [this](https://www.kaggle.com/unsdsn/world-happiness) link. Europe GeoJSON can be found [here](https://github.com/leakyMirror/map-of-europe/blob/master/GeoJSON/europe.geojson).
 Also you can connect with me via [LinkedIn](https://gr.linkedin.com/in/efstathios-kaloutsidis).
 
-***This***  Jupyter notebook is licensed under [MIT License](LICENSE.md).
+***This***  Jupyter notebook is licensed under [MIT License](LICENSE).
