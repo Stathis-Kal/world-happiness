@@ -9,6 +9,12 @@ I will use Python for data analysis and data visualization. More specifically I 
 - Matplotlib
 - Folium
 
+## Note
+Because the folium maps do not seem to render on GitHub natively. Here's a screenshot of the Choropleth map of Europe.
+![alt text](https://raw.githubusercontent.com/Stathis-Kal/world-happiness/master/europe_map.png "Happiness Score of Europe Map")
+
+To get the full functionality of the choropleth map, please visit [nbviewer](https://nbviewer.jupyter.org/github/Stathis-Kal/world-happiness/blob/master/Happiness-levels.ipynb)
+
 ## Datasets
 
 The happiness scores and rankings use data from the [Gallup World Poll](https://www.gallup.com/analytics/247355/gallup-world-happiness-report.aspx).
@@ -22,4 +28,4 @@ The columns following the happiness score estimate the extent to which each of *
 You can find more info about the datasets and how to download them by clicking [this](https://www.kaggle.com/unsdsn/world-happiness) link. Europe GeoJSON can be found [here](https://github.com/leakyMirror/map-of-europe/blob/master/GeoJSON/europe.geojson).
 Also you can connect with me via [LinkedIn](https://gr.linkedin.com/in/efstathios-kaloutsidis).
 
-***This***  Jupyter notebook is licensed under [MIT License](LICENSE.md).
+***This***  Jupyter notebook is licensed under [MIT License](LICENSE).
