@@ -11,7 +11,7 @@ I will use Python for data analysis and data visualization. More specifically I 
 
 ## Note
 Because the folium maps do not seem to render on GitHub natively. Here's a screenshot of the Choropleth map of Europe.
-![alt text](https://raw.githubusercontent.com/Stathis-Kal/world-happiness/master/europe_map.png "Happiness Score of Europe Map")
+![europe_map](https://raw.githubusercontent.com/Stathis-Kal/world-happiness/master/europe_map.png "Happiness Score of Europe Map")
 
 To get the full functionality of the choropleth map, please visit [nbviewer](https://nbviewer.jupyter.org/github/Stathis-Kal/world-happiness/blob/master/Happiness-levels.ipynb)
 
